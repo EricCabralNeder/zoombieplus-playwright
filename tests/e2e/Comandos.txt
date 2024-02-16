@@ -1,0 +1,13 @@
+
+executar teste no pront
+    npx playwright test
+
+executar teste no modo grafico
+    npx playwright test --ui
+
+Iniciar aplicação
+    npm run dev
+
+Instalar a biblioteca do banco de dados postgress sqp
+    npm i pg --save-dev
+    

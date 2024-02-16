@@ -1,0 +1,83 @@
+{
+    "the_night_of_the_living_dead": {
+      "title": "The Night of the Living Dead",
+      "overview": "Um grupo de pessoas fica preso em uma casa enquanto zumbis canibais tentam invadir.",
+      "company": "Continental Distributing",
+      "release_year": 1968,
+      "featured": false,
+      "cover": "caminho/para/cover1.png"
+    },
+    "dawn_of_the_dead": {
+      "title": "Dawn of the Dead",
+      "overview": "Sobreviventes tentam se proteger de zumbis em um shopping center.",
+      "company": "United Film Distribution Company",
+      "release_year": 1978,
+      "featured": false,
+      "cover": "caminho/para/cover2.png"
+    },
+    "28_days_later": {
+      "title": "28 Days Later",
+      "overview": "Um vírus assola a Inglaterra, transformando pessoas em ferozes infectados.",
+      "company": "Fox Searchlight Pictures",
+      "release_year": 2002,
+      "featured": false,
+      "cover": "caminho/para/cover3.png"
+    },
+    "create": {
+      "title": "World War Z",
+      "overview": "Um ex-investigador da ONU é chamado para conter uma pandemia global de zumbis.",
+      "company": "Paramount Pictures",
+      "release_year": 2013,
+      "featured": false,
+      "cover": "caminho/para/cover4.png"
+    },
+    "train_to_busan": {
+      "title": "Train to Busan",
+      "overview": "Passageiros em um trem tentam sobreviver a uma epidemia zumbi na Coreia do Sul.",
+      "company": "Next Entertainment World",
+      "release_year": 2016,
+      "featured": false,
+      "cover": "caminho/para/cover5.png"
+    },
+    "zombieland": {
+      "title": "Zombieland",
+      "overview": "Um grupo de sobreviventes tenta se manter vivo em um mundo infestado de zumbis.",
+      "company": "Sony Pictures Releasing",
+      "release_year": 2009,
+      "featured": false,
+      "cover": "caminho/para/cover6.png"
+    },
+    "shaun_of_the_dead": {
+      "title": "Shaun of the Dead",
+      "overview": "Um vendedor de eletrônicos tenta salvar sua namorada e mãe durante um apocalipse zumbi.",
+      "company": "Focus Features",
+      "release_year": 2004,
+      "featured": false,
+      "cover": "caminho/para/cover7.png"
+    },
+    "resident_evil": {
+      "title": "Resident Evil",
+      "overview": "Uma força de segurança enfrenta experimentos genéticos que resultaram em zumbis.",
+      "company": "Screen Gems",
+      "release_year": 2002,
+      "featured": false,
+      "cover": "caminho/para/cover8.png"
+    },
+    "warm_bodies": {
+      "title": "Warm Bodies",
+      "overview": "Um zumbi se apaixona por uma humana, desencadeando uma série de eventos inesperados.",
+      "company": "Summit Entertainment",
+      "release_year": 2013,
+      "featured": false,
+      "cover": "caminho/para/cover9.png"
+    },
+    "the_walking_dead_days_gone_bye": {
+      "title": "The Walking Dead: Days Gone Bye",
+      "overview": "Um policial acorda em um hospital para descobrir que o mundo foi invadido por zumbis.",
+      "company": "AMC",
+      "release_year": 2010,
+      "featured": false,
+      "cover": "caminho/para/cover10.png"
+    }
+  }
+  
